@@ -1,3 +1,49 @@
 .top {
     color: #7e14ff;
+    display:flex;
+    flex-direction:column;
+    font-family: 'Luckiest Guy', cursive;
+    font-size:35px;
+    Text-decoration: #5b2de8 underline;
+    border: dashed #1802bd 25px;
+    padding-left: 60px;
+    background: pink;
+    text-align: center;
+    
+}
+.please-vote {
+    color:#ff4180;
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+     display:flex;
+    flex-direction:column;
+    border: outset #e69fda 35px;
+    background:#850178;
+}
+.pictures {
+    display:flex;
+    flex-direction:row;
+    display: flex;
+    justify-content: space-around;
+    border: #4aa0b5 50px groove;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background: #2aba98;
+}
+.haddish {
+    color: blue;
+    font-family: 'Ranga', cursive;
+    font-size: 35px;
+    text-align: center;
+    text-decoration: underline;
+}
+.bottom {
+    color: #030dcc;
+    font-family: 'Vast Shadow', cursive;
+    font-size: 25px;
+    text-align: center;
+}
+.tiffany {
+    border: 40px dotted #ff528c;
+    background: #ffc3f9;
 }
